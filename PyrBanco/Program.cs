@@ -16,7 +16,7 @@ namespace PyrBanco
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmInterfazPrincipal());
+            Application.Run(new FrmLogin());
         }
     }
 }

@@ -32,3 +32,11 @@ C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\
 C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaLogica\obj\Debug\CapaLogica.pdb

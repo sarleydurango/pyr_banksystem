@@ -21,3 +21,8 @@ C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\
 C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\SARLEY\Documents\projects\PyrBanco\CapaDatos\obj\Debug\CapaDatos.pdb
