@@ -1,0 +1,68 @@
+c:\users\soporte\documents\visual studio 2015\Projects\PyrBanco\PyrBanco\bin\Debug\PyrBanco.exe.config
+c:\users\soporte\documents\visual studio 2015\Projects\PyrBanco\PyrBanco\bin\Debug\PyrBanco.exe
+c:\users\soporte\documents\visual studio 2015\Projects\PyrBanco\PyrBanco\bin\Debug\PyrBanco.pdb
+c:\users\soporte\documents\visual studio 2015\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csprojResolveAssemblyReference.cache
+c:\users\soporte\documents\visual studio 2015\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.Properties.Resources.resources
+c:\users\soporte\documents\visual studio 2015\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.GenerateResource.Cache
+c:\users\soporte\documents\visual studio 2015\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.exe
+c:\users\soporte\documents\visual studio 2015\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.pdb
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\PyrBanco\PyrBanco\bin\Debug\CapaLogica.dll
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\PyrBanco\PyrBanco\bin\Debug\CapaDatos.dll
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\PyrBanco\PyrBanco\bin\Debug\CapaLogica.pdb
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\PyrBanco\PyrBanco\bin\Debug\CapaDatos.pdb
+C:\Users\SOPORTE\Documents\Visual Studio 2015\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmCuentas.resources
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\PyrBanco.exe.config
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\PyrBanco.exe
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\PyrBanco.pdb
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\CapaLogica.dll
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\CapaDatos.dll
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\CapaLogica.pdb
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\CapaDatos.pdb
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csprojAssemblyReference.cache
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmCuentas.resources
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.Properties.Resources.resources
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.GenerateResource.cache
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.CoreCompileInputs.cache
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.CopyComplete
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.exe
+C:\Users\SARLEY\Downloads\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.pdb
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\PyrBanco.exe.config
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\PyrBanco.exe
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\PyrBanco.pdb
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\CapaLogica.dll
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\CapaDatos.dll
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\CapaLogica.pdb
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\bin\Debug\CapaDatos.pdb
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csprojAssemblyReference.cache
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmCuentas.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.Properties.Resources.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.GenerateResource.cache
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.CoreCompileInputs.cache
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.CopyComplete
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.exe
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.pdb
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmUsuarios.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmLogin.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Projects\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmInterfazPrincipal.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\bin\Debug\PyrBanco.exe.config
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\bin\Debug\PyrBanco.exe
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\bin\Debug\PyrBanco.pdb
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\bin\Debug\CapaLogica.dll
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\bin\Debug\CapaDatos.dll
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\bin\Debug\CapaLogica.pdb
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\bin\Debug\CapaDatos.pdb
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csprojAssemblyReference.cache
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmCuentas.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmInterfazPrincipal.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmLogin.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmUsuarios.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.Properties.Resources.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.GenerateResource.cache
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.CoreCompileInputs.cache
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\CapaDiseño.csproj.CopyComplete
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.exe
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.pdb
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmTransaccion.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmCambiar.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmSolicitudes.resources
+C:\Users\SARLEY\Documents\Archivo\Archivo\Copia_SeguridadProyectoBanco\PyrBanco\PyrBanco\obj\Debug\PyrBanco.FrmObservacion.resources
