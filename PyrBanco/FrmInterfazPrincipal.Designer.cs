@@ -30,6 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmInterfazPrincipal));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.Btn_Solicitudes = new System.Windows.Forms.Button();
             this.BtnCambiar = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.opcion = new System.Windows.Forms.Panel();
@@ -49,7 +50,6 @@
             this.LblContraseña = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.LblUsuario = new System.Windows.Forms.Label();
-            this.Btn_Solicitudes = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PtbUsuario)).BeginInit();
@@ -61,7 +61,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(30)))), ((int)(((byte)(57)))));
             this.panel1.Controls.Add(this.Btn_Solicitudes);
             this.panel1.Controls.Add(this.BtnCambiar);
             this.panel1.Controls.Add(this.label4);
@@ -77,6 +77,20 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(270, 562);
             this.panel1.TabIndex = 1;
+            // 
+            // Btn_Solicitudes
+            // 
+            this.Btn_Solicitudes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Btn_Solicitudes.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Btn_Solicitudes.ForeColor = System.Drawing.SystemColors.Window;
+            this.Btn_Solicitudes.Location = new System.Drawing.Point(12, 450);
+            this.Btn_Solicitudes.Name = "Btn_Solicitudes";
+            this.Btn_Solicitudes.Size = new System.Drawing.Size(244, 40);
+            this.Btn_Solicitudes.TabIndex = 48;
+            this.Btn_Solicitudes.Text = "&Solicitudes";
+            this.Btn_Solicitudes.UseVisualStyleBackColor = true;
+            this.Btn_Solicitudes.Click += new System.EventHandler(this.Btn_Solicitudes_Click);
+            this.Btn_Solicitudes.MouseHover += new System.EventHandler(this.Btn_Solicitudes_MouseHover);
             // 
             // BtnCambiar
             // 
@@ -252,7 +266,7 @@
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(30)))), ((int)(((byte)(57)))));
             this.panel2.Controls.Add(this.LblContraseña);
             this.panel2.Controls.Add(this.label1);
             this.panel2.Controls.Add(this.LblUsuario);
@@ -295,20 +309,6 @@
             this.LblUsuario.Size = new System.Drawing.Size(41, 13);
             this.LblUsuario.TabIndex = 47;
             this.LblUsuario.Text = "label1";
-            // 
-            // Btn_Solicitudes
-            // 
-            this.Btn_Solicitudes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Btn_Solicitudes.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Btn_Solicitudes.ForeColor = System.Drawing.SystemColors.Window;
-            this.Btn_Solicitudes.Location = new System.Drawing.Point(12, 450);
-            this.Btn_Solicitudes.Name = "Btn_Solicitudes";
-            this.Btn_Solicitudes.Size = new System.Drawing.Size(244, 40);
-            this.Btn_Solicitudes.TabIndex = 48;
-            this.Btn_Solicitudes.Text = "&Solicitudes";
-            this.Btn_Solicitudes.UseVisualStyleBackColor = true;
-            this.Btn_Solicitudes.Click += new System.EventHandler(this.Btn_Solicitudes_Click);
-            this.Btn_Solicitudes.MouseHover += new System.EventHandler(this.Btn_Solicitudes_MouseHover);
             // 
             // FrmInterfazPrincipal
             // 
